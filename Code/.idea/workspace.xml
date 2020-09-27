@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20cf620f-5d2b-4be5-81ff-dfb7d3ed82d3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Project-1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VBFXUpTYgtlMpNk9AgSjrKJiQC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/venv" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Darwin-Test">
+    <configuration name="BayesTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/BayesTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CalculateScore" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/CalculateScore.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Darwin-Test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="/Darwin-Test" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Darwin-Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Darwin-Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Project-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Darwin-Test" />
+        <item itemvalue="Python.Darwin-Test (1)" />
+        <item itemvalue="Python.CalculateScore" />
+        <item itemvalue="Python.temp" />
+        <item itemvalue="Python.BayesTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20cf620f-5d2b-4be5-81ff-dfb7d3ed82d3" name="Default Changelist" comment="" />
+      <created>1576718620370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576718620370</updated>
+      <workItem from="1581727368871" duration="1966000" />
+      <workItem from="1581745719585" duration="700000" />
+      <workItem from="1581766666153" duration="8000" />
+      <workItem from="1581766686199" duration="6000" />
+      <workItem from="1581903064615" duration="2319000" />
+      <workItem from="1581990641180" duration="13000" />
+      <workItem from="1582074968502" duration="11000" />
+      <workItem from="1582074988259" duration="16372000" />
+      <workItem from="1582097443457" duration="208000" />
+      <workItem from="1582161714316" duration="16000" />
+      <workItem from="1584429643781" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="100" key="#Chrome_Settings" timestamp="1577166457061">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="320" y="100" key="#Chrome_Settings/0.23.1440.824@0.23.1440.824" timestamp="1577166457061" />
+    <state x="320" y="100" key="#Web_Browsers" timestamp="1577166458176">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="320" y="100" key="#Web_Browsers/0.23.1440.824@0.23.1440.824" timestamp="1577166458176" />
+    <state x="468" y="271" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1577148371660">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="468" y="271" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1440.824@0.23.1440.824" timestamp="1577148371660" />
+    <state width="1398" height="228" key="GridCell.Tab.0.bottom" timestamp="1581927853526">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581927853526" />
+    <state width="1419" height="251" key="GridCell.Tab.0.bottom/0.23.1440.824@0.23.1440.824" timestamp="1578366839971" />
+    <state width="1419" height="2" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1579056059072" />
+    <state width="1398" height="228" key="GridCell.Tab.0.center" timestamp="1581927853525">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="228" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581927853525" />
+    <state width="1419" height="251" key="GridCell.Tab.0.center/0.23.1440.824@0.23.1440.824" timestamp="1578366839970" />
+    <state width="1419" height="2" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1579056059071" />
+    <state width="1398" height="228" key="GridCell.Tab.0.left" timestamp="1581927853524">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="228" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581927853524" />
+    <state width="1419" height="251" key="GridCell.Tab.0.left/0.23.1440.824@0.23.1440.824" timestamp="1578366839970" />
+    <state width="1419" height="2" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1579056059071" />
+    <state width="1398" height="228" key="GridCell.Tab.0.right" timestamp="1581927853525">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="228" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581927853525" />
+    <state width="1419" height="251" key="GridCell.Tab.0.right/0.23.1440.824@0.23.1440.824" timestamp="1578366839971" />
+    <state width="1419" height="2" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1579056059072" />
+    <state x="248" y="23" key="SettingsEditor" timestamp="1578446645614">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="248" y="23" key="SettingsEditor/0.23.1440.824@0.23.1440.824" timestamp="1578446645614" />
+    <state x="399" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1576718626796">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="399" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.824@0.23.1440.824" timestamp="1576718626796" />
+    <state x="624" y="23" width="816" height="824" key="find.popup" timestamp="1577967143488">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="624" y="23" width="816" height="824" key="find.popup/0.23.1440.824@0.23.1440.824" timestamp="1577967143488" />
+    <state x="385" y="162" width="670" height="739" key="search.everywhere.popup" timestamp="1582095548578">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="162" width="670" height="739" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1582095548578" />
+    <state x="385" y="171" width="670" height="676" key="search.everywhere.popup/0.23.1440.824@0.23.1440.824" timestamp="1577258740458" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Project_1$BayesTest.coverage" NAME="BayesTest Coverage Results" MODIFIED="1581905852001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+  </component>
+</project>
